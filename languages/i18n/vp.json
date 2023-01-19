@@ -223,7 +223,7 @@
 	"pool-servererror": "The pool counter service is not available ($1).",
 	"poolcounter-usage-error": "Deza per bruksuru: $1",
 	"aboutsite": "Tsui {{SITENAME}}",
-	"aboutpage": "Prayekt:Tsue",
+	"aboutpage": "Project:Tsui",
 	"copyright": "Content is available under $1 unless otherwise noted.",
 	"copyrightpage": "{{ns:project}}:Copyrights",
 	"currentevents": "Current events",
