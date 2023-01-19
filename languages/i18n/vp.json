@@ -4340,7 +4340,8 @@
 	"passwordpolicies-policy-passwordcannotbesubstringinusername": "Taenakaku lakinae deki feunnena inye brukjinnamae",
 	"passwordpolicies-policy-passwordcannotmatchblacklist": "Taenakaku lakinae deki feunnena inye ein tumam f szvandz taenakaku",
 	"passwordpolicies-policy-passwordcannotmatchdefaults": "Taenakaku lakinae deki feunnena inye ein tumam f szvandz taenakaku",
-	"passwordpolicies-policy-maximalpasswordlength": "Taenakaku lakinae pluhobit na $1 {{PLURAL:$1|character|characters}} kiraen",
+	"passwordpolicies-policy-maximalpasswordlength": "Taenakaku lakinae pluhobit na $1 kiraen",
+
 	"passwordpolicies-policy-passwordnotinlargeblacklist": "Password cannot be in the list of 100,000 most commonly used passwords.",
 	"passwordpolicies-policy-passwordnotincommonlist": "Password cannot be in the list of 100,000 most commonly used passwords.",
 	"passwordpolicies-policyflag-forcechange": "mus kawari koske zetulla",
