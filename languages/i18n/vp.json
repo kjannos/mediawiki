@@ -2658,7 +2658,7 @@
 	"sp-contributions-concurrency-user": "Sorry, too many requests are being made from your user account. Please try again later.",
 	"sp-contributions-concurrency-ip": "Sorry, too many requests are being made from your IP address. Please try again later.",
 	"whatlinkshere": "Ka zedvera her made",
-	"whatlinkshere-count": "Mahsedan $1 {{PLURAL:$1|item|items}}.",
+	"whatlinkshere-count": "Mahsedan $1 vaska.",
 	"whatlinkshere-title": "Pages that link to \"$1\"",
 	"whatlinkshere-summary": "",
 	"whatlinkshere-page": "Lehti:",
