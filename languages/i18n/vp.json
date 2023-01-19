@@ -3012,7 +3012,8 @@
 	"import-logentry-upload-detail": "$1 {{PLURAL:$1|revision|revisions}} imported",
 	"import-logentry-interwiki": "transwikied $1",
 	"import-logentry-interwiki-detail": "$1 {{PLURAL:$1|revision|revisions}} imported from $2",
-	"javascripttest": "JavaScript Iskat",
+	"javascripttest": "JavaScript iskat",
+
 	"javascripttest-qunit-intro": "See [$1 testing documentation] on mediawiki.org.",
 	"accesskey-pt-userpage": ".",
 	"accesskey-pt-anonuserpage": ".",
