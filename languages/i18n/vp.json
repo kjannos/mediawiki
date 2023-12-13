@@ -1241,7 +1241,7 @@
 	"group-user-member": "{{GENDER:$1|brukdjin}}",
 	"group-autoconfirmed-member": "{{GENDER:$1|autoconfirmed user}}",
 	"group-bot-member": "{{GENDER:$1|botto}}",
-	"group-sysop-member": "{{GENDER:$1|brukdjin}}",
+	"group-sysop-member": "{{GENDER:$1|yewaldjin}}",
 	"group-interface-admin-member": "{{GENDER:$1|interface administrator}}",
 	"group-bureaucrat-member": "{{GENDER:$1|bureaucrat}}",
 	"group-suppress-member": "{{GENDER:$1|suppressor}}",
